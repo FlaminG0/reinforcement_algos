@@ -7,6 +7,8 @@ Classic Reinforcement Algorithms (CRA) is a collection of classic reinforcement 
 
 - DQN [(paper)](https://arxiv.org/abs/1312.5602)
 
+- CQL [(paper)](https://arxiv.org/abs/2006.04779)
+
 - MADDPG [(paper)](https://arxiv.org/abs/1706.02275)
 
 
